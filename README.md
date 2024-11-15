@@ -1,37 +1,10 @@
 # Lista de Free Hosting Servers
-1-HubSpot
 
-![imatge](https://github.com/user-attachments/assets/8f6a9955-ae56-4b8e-903d-15dd2096226c)
-
-2-Hostinger
-
-![imatge](https://github.com/user-attachments/assets/31abdfca-eacf-4cf9-9fc8-adafa3658036)
-
-3-Google Cloud
-
-![imatge](https://github.com/user-attachments/assets/adc1448e-2a50-4fe5-b273-47db71957723)
-
-4-AwardSpace
-
-![imatge](https://github.com/user-attachments/assets/226c1462-cddb-408e-9852-e0a8bfb086b3)
-
-5-LucusHost
-
-![imatge](https://github.com/user-attachments/assets/56f167f0-d42d-4970-a897-b3bb1ee03306)
-
-6-InfinityFree
-
-![imatge](https://github.com/user-attachments/assets/e77a52a1-aa2f-401a-b223-9b0fc0845fa6)
-
-7-000Webhost
-
-![imatge](https://github.com/user-attachments/assets/dee0828d-c77e-4e55-a2c6-ec1c8dde51bb)
-
-8-Cowabi
-
-![imatge](https://github.com/user-attachments/assets/a94ed8fe-1c10-4188-9aff-a926503d8ae4)
-
-9-Wix
-
-![imatge](https://github.com/user-attachments/assets/ffe5cbde-4aff-4e2e-8e1f-f0de7a29ae03)
-
+| Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| HubSpot |No especificat per als plans gratuïts; sol ser suficient per a llocs web estàndard.| No limitat explícitament en els plans gratuïts.| Ofereix subdominis gratuïts, però permet l'ús de dominis personalitzats amb plans premium. | Inclòs automàticament per a tots els llocs web. |No col·loca anuncis automàtics en llocs web gratuïts. | Integració amb el CRM, constructor arrossega-i-deixa (drag-and-drop), temes personalitzables i eines analítiques avançades. Utilitza AWS per a l'allotjament segur i fiable​ |hubspot.com |
+| Hostinger|  Varien segons el pla. Per exemple, 100 GB SSD al pla bàsic Premium i fins a 200 GB NVMe als plans de WordPress avançats. | No limitat als plans bàsics i avançats. | Inclou un domini gratuït en la majoria de plans anuals, amb la possibilitat d'utilitzar dominis personalitzats. | Inclòs sense cost addicional en tots els plans. | No col·loca publicitat als llocs web. | Instal·lació ràpida de WordPress, constructor de llocs amb IA, accés a més de 100 aplicacions amb un instal·lador automàtic, i seguretat avançada amb còpies de seguretat regulars i protecció DDoS. |  hostinger.com |
+| Google Cloud | Depèn del tipus d'instància creada (personalitzable segons necessitats).  | Basat en un model de pagament per ús, incloent transferències de dades internes i externes.  | Compatible amb dominis personalitzats.  |  Suport natiu per a SSL amb serveis com Cloud Load Balancer. |  No hi ha publicitat automàtica.| Escalabilitat automàtica, integració amb Cloud CDN, i protecció avançada contra DDoS.  | cloud.google.com  |
+| AwardSpace |1 GB SSD.  | 5 GB al mes. |  1 domini i 3 subdominis.  | Inclòs en tots els plans (gratuïts i premium).  | No col·loca publicitat als llocs web allotjats, fins i tot en el pla gratuït.  | Suport per WordPress i Joomla amb instal·lació amb un clic. Garantia de temps d'activitat del 99,9%. Protecció de tallafocs i antivirus. Suport tècnic 24/7, encara que el temps de resposta és més ràpid en plans premium. Compatible amb MySQL i bases de dades associades en els plans premium. | www.awardspace.com | 
+| LucusHost | Plans des de 10 GB fins a emmagatzematge il·limitat en SSD.  | Il·limitat en plans premium.  | Permet l'ús de dominis personalitzats. Ofereix un domini gratuït en contractar un pla. | Inclou certificat SSL gratuït. | Sense anuncis.  | Instal·lació amb un sol clic per CMS com WordPress. Suport tècnic 24/7 en castellà. Bases de dades MySQL i còpies de seguretat automàtiques. Hosting optimitzat per a WordPress.  | www.lucushost.com  | 
+| InfinityFree  | Il·limitat (amb límits d'ús raonables per fitxers). | Il·limitat. | Proporciona subdominis gratuïts i permet l'ús de dominis personalitzats.  | Inclou certificats SSL gratuïts. | Sense anuncis al lloc web de l'usuari. | Panell de control personalitzat.   Instal·lador d'aplicacions amb més de 400 apps com WordPress.    Suport a través de la comunitat i base de coneixement (sense suport directe).   Recomanat per a projectes petits, estudiants i usuaris que comencen. | www.infinityfree.net  | 
